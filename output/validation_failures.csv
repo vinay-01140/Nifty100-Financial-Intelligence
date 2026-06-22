@@ -1,0 +1,1545 @@
+table,row_index,rule_id,severity,message
+profitandloss,47.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2013.0)"
+profitandloss,48.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2014.0)"
+profitandloss,49.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2015.0)"
+profitandloss,50.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2016.0)"
+profitandloss,51.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2017.0)"
+profitandloss,52.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2018.0)"
+profitandloss,53.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2019.0)"
+profitandloss,54.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2020.0)"
+profitandloss,55.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2021.0)"
+profitandloss,56.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2022.0)"
+profitandloss,57.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2023.0)"
+profitandloss,58.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2024.0)"
+profitandloss,60.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2013.0)"
+profitandloss,61.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2014.0)"
+profitandloss,62.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2015.0)"
+profitandloss,63.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2016.0)"
+profitandloss,64.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2017.0)"
+profitandloss,65.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2018.0)"
+profitandloss,66.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2019.0)"
+profitandloss,67.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2020.0)"
+profitandloss,68.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2021.0)"
+profitandloss,69.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2022.0)"
+profitandloss,70.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2023.0)"
+profitandloss,71.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2024.0)"
+balancesheet,11.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2024)"
+balancesheet,12.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2024)"
+balancesheet,23.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIENSOL, 2024)"
+balancesheet,24.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIENSOL, 2024)"
+balancesheet,36.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIENT, 2024)"
+balancesheet,37.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIENT, 2024)"
+balancesheet,45.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIGREEN, 2024)"
+balancesheet,46.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIGREEN, 2024)"
+balancesheet,58.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2024)"
+balancesheet,59.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPORTS, 2024)"
+balancesheet,71.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPOWER, 2024)"
+balancesheet,72.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ADANIPOWER, 2024)"
+balancesheet,84.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(AMBUJACEM, 2024)"
+balancesheet,85.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(AMBUJACEM, 2024)"
+balancesheet,97.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(APOLLOHOSP, 2024)"
+balancesheet,98.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(APOLLOHOSP, 2024)"
+balancesheet,99.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2013)"
+balancesheet,100.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2014)"
+balancesheet,101.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2015)"
+balancesheet,102.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2016)"
+balancesheet,103.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2017)"
+balancesheet,104.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2018)"
+balancesheet,105.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2019)"
+balancesheet,106.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2020)"
+balancesheet,107.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2021)"
+balancesheet,108.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2022)"
+balancesheet,109.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2023)"
+balancesheet,110.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2024)"
+balancesheet,111.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2024)"
+balancesheet,112.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2013)"
+balancesheet,113.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2014)"
+balancesheet,114.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2015)"
+balancesheet,115.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2016)"
+balancesheet,116.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2017)"
+balancesheet,117.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2018)"
+balancesheet,118.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2019)"
+balancesheet,119.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2020)"
+balancesheet,120.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2021)"
+balancesheet,121.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2022)"
+balancesheet,122.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2023)"
+balancesheet,123.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2024)"
+balancesheet,124.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ASIANPAINT, 2024)"
+balancesheet,131.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ATGL, 2024)"
+balancesheet,132.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ATGL, 2024)"
+balancesheet,156.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2024)"
+balancesheet,157.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2024)"
+balancesheet,169.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJFINSV, 2024)"
+balancesheet,170.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJFINSV, 2024)"
+balancesheet,182.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJHLDNG, 2024)"
+balancesheet,183.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJHLDNG, 2024)"
+balancesheet,193.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJFINANCE, 2024)"
+balancesheet,194.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJFINANCE, 2024)"
+balancesheet,218.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BEL, 2024)"
+balancesheet,219.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BEL, 2024)"
+balancesheet,231.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BHARTIARTL, 2024)"
+balancesheet,232.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BHARTIARTL, 2024)"
+balancesheet,244.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BHEL, 2024)"
+balancesheet,245.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BHEL, 2024)"
+balancesheet,257.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BOSCHLTD, 2024)"
+balancesheet,258.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BOSCHLTD, 2024)"
+balancesheet,270.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BPCL, 2024)"
+balancesheet,271.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BPCL, 2024)"
+balancesheet,283.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BRITANNIA, 2024)"
+balancesheet,284.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BRITANNIA, 2024)"
+balancesheet,308.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(CHOLAFIN, 2024)"
+balancesheet,309.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(CHOLAFIN, 2024)"
+balancesheet,321.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(CIPLA, 2024)"
+balancesheet,322.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(CIPLA, 2024)"
+balancesheet,334.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(COALINDIA, 2024)"
+balancesheet,335.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(COALINDIA, 2024)"
+balancesheet,347.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DABUR, 2024)"
+balancesheet,348.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DABUR, 2024)"
+balancesheet,360.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DIVISLAB, 2024)"
+balancesheet,361.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DIVISLAB, 2024)"
+balancesheet,373.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DLF, 2024)"
+balancesheet,374.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DLF, 2024)"
+balancesheet,386.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DMART, 2024)"
+balancesheet,387.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DMART, 2024)"
+balancesheet,399.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DRREDDY, 2024)"
+balancesheet,400.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(DRREDDY, 2024)"
+balancesheet,412.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(EICHERMOT, 2024)"
+balancesheet,413.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(EICHERMOT, 2024)"
+balancesheet,425.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(GAIL, 2024)"
+balancesheet,426.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(GAIL, 2024)"
+balancesheet,438.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(GODREJCP, 2024)"
+balancesheet,439.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(GODREJCP, 2024)"
+balancesheet,451.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(GRASIM, 2024)"
+balancesheet,452.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(GRASIM, 2024)"
+balancesheet,461.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HAL, 2024)"
+balancesheet,462.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HAL, 2024)"
+balancesheet,474.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HCLTECH, 2024)"
+balancesheet,475.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HCLTECH, 2024)"
+balancesheet,487.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HAVELLS, 2024)"
+balancesheet,488.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HAVELLS, 2024)"
+balancesheet,512.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HDFCLIFE, 2024)"
+balancesheet,513.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HDFCLIFE, 2024)"
+balancesheet,524.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HEROMOTOCO, 2024)"
+balancesheet,525.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HEROMOTOCO, 2024)"
+balancesheet,537.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HINDALCO, 2024)"
+balancesheet,538.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HINDALCO, 2024)"
+balancesheet,550.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HINDUNILVR, 2024)"
+balancesheet,551.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(HINDUNILVR, 2024)"
+balancesheet,575.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ICICIGI, 2024)"
+balancesheet,576.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ICICIGI, 2024)"
+balancesheet,588.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ICICIPRULI, 2024)"
+balancesheet,589.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ICICIPRULI, 2024)"
+balancesheet,601.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(INDIGO, 2024)"
+balancesheet,602.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(INDIGO, 2024)"
+balancesheet,626.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(INFY, 2024)"
+balancesheet,627.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(INFY, 2024)"
+balancesheet,639.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(IOC, 2024)"
+balancesheet,640.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(IOC, 2024)"
+balancesheet,650.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(IRCTC, 2024)"
+balancesheet,651.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(IRCTC, 2024)"
+balancesheet,663.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(IRFC, 2024)"
+balancesheet,664.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(IRFC, 2024)"
+balancesheet,676.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ITC, 2024)"
+balancesheet,677.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ITC, 2024)"
+balancesheet,689.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ONGC, 2024)"
+balancesheet,690.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ONGC, 2024)"
+balancesheet,702.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NTPC, 2024)"
+balancesheet,703.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NTPC, 2024)"
+balancesheet,715.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NHPC, 2024)"
+balancesheet,716.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NHPC, 2024)"
+balancesheet,728.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NESTLEIND, 2024)"
+balancesheet,729.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NESTLEIND, 2024)"
+balancesheet,741.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NAUKRI, 2024)"
+balancesheet,742.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(NAUKRI, 2024)"
+balancesheet,754.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(MOTHERSON, 2024)"
+balancesheet,755.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(MOTHERSON, 2024)"
+balancesheet,767.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(MARUTI, 2024)"
+balancesheet,768.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(MARUTI, 2024)"
+balancesheet,780.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(M&M, 2024)"
+balancesheet,781.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(M&M, 2024)"
+balancesheet,793.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LTIM, 2024)"
+balancesheet,794.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LTIM, 2024)"
+balancesheet,806.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LT, 2024)"
+balancesheet,807.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LT, 2024)"
+balancesheet,819.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LODHA, 2024)"
+balancesheet,820.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LODHA, 2024)"
+balancesheet,826.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LICI, 2024)"
+balancesheet,827.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(LICI, 2024)"
+balancesheet,851.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JSWSTEEL, 2024)"
+balancesheet,852.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JSWSTEEL, 2024)"
+balancesheet,864.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JSWENERGY, 2024)"
+balancesheet,865.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JSWENERGY, 2024)"
+balancesheet,867.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JIOFIN, 2024)"
+balancesheet,868.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JIOFIN, 2024)"
+balancesheet,880.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JINDALSTEL, 2024)"
+balancesheet,881.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(JINDALSTEL, 2024)"
+balancesheet,893.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PFC, 2024)"
+balancesheet,894.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PFC, 2024)"
+balancesheet,906.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PIDILITIND, 2024)"
+balancesheet,907.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PIDILITIND, 2024)"
+balancesheet,908.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2013)"
+balancesheet,909.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2014)"
+balancesheet,910.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2015)"
+balancesheet,911.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2016)"
+balancesheet,912.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2017)"
+balancesheet,913.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2018)"
+balancesheet,914.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2019)"
+balancesheet,915.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2020)"
+balancesheet,916.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2021)"
+balancesheet,917.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2022)"
+balancesheet,918.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2023)"
+balancesheet,919.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2024)"
+balancesheet,920.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2013)"
+balancesheet,921.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2014)"
+balancesheet,922.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2015)"
+balancesheet,923.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2016)"
+balancesheet,924.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2017)"
+balancesheet,925.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2018)"
+balancesheet,926.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2019)"
+balancesheet,927.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2020)"
+balancesheet,928.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2021)"
+balancesheet,929.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2022)"
+balancesheet,930.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2023)"
+balancesheet,931.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2024)"
+balancesheet,932.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2013)"
+balancesheet,933.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2014)"
+balancesheet,934.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2015)"
+balancesheet,935.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2016)"
+balancesheet,936.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2017)"
+balancesheet,937.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2018)"
+balancesheet,938.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2019)"
+balancesheet,939.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2020)"
+balancesheet,940.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2021)"
+balancesheet,941.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2022)"
+balancesheet,942.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2023)"
+balancesheet,943.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2024)"
+balancesheet,944.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2013)"
+balancesheet,945.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2014)"
+balancesheet,946.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2015)"
+balancesheet,947.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2016)"
+balancesheet,948.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2017)"
+balancesheet,949.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2018)"
+balancesheet,950.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2019)"
+balancesheet,951.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2020)"
+balancesheet,952.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2021)"
+balancesheet,953.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2022)"
+balancesheet,954.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2023)"
+balancesheet,955.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2024)"
+balancesheet,956.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2013)"
+balancesheet,957.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2014)"
+balancesheet,958.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2015)"
+balancesheet,959.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2016)"
+balancesheet,960.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2017)"
+balancesheet,961.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2018)"
+balancesheet,962.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2019)"
+balancesheet,963.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2020)"
+balancesheet,964.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2021)"
+balancesheet,965.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2022)"
+balancesheet,966.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2023)"
+balancesheet,967.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(PNB, 2024)"
+balancesheet,968.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2013)"
+balancesheet,969.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2014)"
+balancesheet,970.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2015)"
+balancesheet,971.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2016)"
+balancesheet,972.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2017)"
+balancesheet,973.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2018)"
+balancesheet,974.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2019)"
+balancesheet,975.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2020)"
+balancesheet,976.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2021)"
+balancesheet,977.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2022)"
+balancesheet,978.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2023)"
+balancesheet,979.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2024)"
+balancesheet,980.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2024)"
+balancesheet,981.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2013)"
+balancesheet,982.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2014)"
+balancesheet,983.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2015)"
+balancesheet,984.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2016)"
+balancesheet,985.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2017)"
+balancesheet,986.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2018)"
+balancesheet,987.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2019)"
+balancesheet,988.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2020)"
+balancesheet,989.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2021)"
+balancesheet,990.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2022)"
+balancesheet,991.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2023)"
+balancesheet,992.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2024)"
+balancesheet,993.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(POWERGRID, 2024)"
+balancesheet,1005.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(RECLTD, 2024)"
+balancesheet,1006.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(RECLTD, 2024)"
+balancesheet,1018.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(RELIANCE, 2024)"
+balancesheet,1019.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(RELIANCE, 2024)"
+balancesheet,1031.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SBILIFE, 2024)"
+balancesheet,1032.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SBILIFE, 2024)"
+balancesheet,1044.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ZYDUSLIFE, 2024)"
+balancesheet,1045.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ZYDUSLIFE, 2024)"
+balancesheet,1057.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SHREECEM, 2024)"
+balancesheet,1058.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SHREECEM, 2024)"
+balancesheet,1065.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ZOMATO, 2024)"
+balancesheet,1066.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ZOMATO, 2024)"
+balancesheet,1078.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(WIPRO, 2024)"
+balancesheet,1079.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(WIPRO, 2024)"
+balancesheet,1091.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(VEDL, 2024)"
+balancesheet,1092.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(VEDL, 2024)"
+balancesheet,1104.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SHRIRAMFIN, 2024)"
+balancesheet,1105.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SHRIRAMFIN, 2024)"
+balancesheet,1129.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(UNITDSPR, 2024)"
+balancesheet,1130.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(UNITDSPR, 2024)"
+balancesheet,1154.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SUNPHARMA, 2024)"
+balancesheet,1155.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(SUNPHARMA, 2024)"
+balancesheet,1167.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ULTRACEMCO, 2024)"
+balancesheet,1168.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ULTRACEMCO, 2024)"
+balancesheet,1180.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TVSMOTOR, 2024)"
+balancesheet,1181.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TVSMOTOR, 2024)"
+balancesheet,1193.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TRENT, 2024)"
+balancesheet,1194.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TRENT, 2024)"
+balancesheet,1206.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TORNTPHARM, 2024)"
+balancesheet,1207.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TORNTPHARM, 2024)"
+balancesheet,1219.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TITAN, 2024)"
+balancesheet,1220.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TITAN, 2024)"
+balancesheet,1221.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2013)"
+balancesheet,1222.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2014)"
+balancesheet,1223.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2015)"
+balancesheet,1224.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2016)"
+balancesheet,1225.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2017)"
+balancesheet,1226.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2018)"
+balancesheet,1227.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2019)"
+balancesheet,1228.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2020)"
+balancesheet,1229.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2021)"
+balancesheet,1230.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2022)"
+balancesheet,1231.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2023)"
+balancesheet,1232.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2024)"
+balancesheet,1233.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2024)"
+balancesheet,1245.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATACONSUM, 2024)"
+balancesheet,1246.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATACONSUM, 2024)"
+balancesheet,1258.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TCS, 2024)"
+balancesheet,1259.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TCS, 2024)"
+balancesheet,1271.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATASTEEL, 2024)"
+balancesheet,1272.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATASTEEL, 2024)"
+balancesheet,1273.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2013)"
+balancesheet,1274.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2014)"
+balancesheet,1275.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2015)"
+balancesheet,1276.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2016)"
+balancesheet,1277.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2017)"
+balancesheet,1278.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2018)"
+balancesheet,1279.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2019)"
+balancesheet,1280.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2020)"
+balancesheet,1281.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2021)"
+balancesheet,1282.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2022)"
+balancesheet,1283.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2023)"
+balancesheet,1284.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2024)"
+balancesheet,1285.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TECHM, 2024)"
+balancesheet,1297.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATAPOWER, 2024)"
+balancesheet,1298.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATAPOWER, 2024)"
+balancesheet,1310.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATAMOTORS, 2024)"
+balancesheet,1311.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(TATAMOTORS, 2024)"
+cashflow,13.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2014.0)"
+cashflow,14.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2015.0)"
+cashflow,15.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2016.0)"
+cashflow,16.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2017.0)"
+cashflow,17.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2018.0)"
+cashflow,18.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2019.0)"
+cashflow,19.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2020.0)"
+cashflow,20.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2021.0)"
+cashflow,21.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2022.0)"
+cashflow,22.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2023.0)"
+cashflow,23.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2024.0)"
+cashflow,24.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2014.0)"
+cashflow,25.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2015.0)"
+cashflow,26.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2016.0)"
+cashflow,27.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2017.0)"
+cashflow,28.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2018.0)"
+cashflow,29.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2019.0)"
+cashflow,30.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2020.0)"
+cashflow,31.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2021.0)"
+cashflow,32.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2022.0)"
+cashflow,33.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2023.0)"
+cashflow,34.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(ABB, 2024.0)"
+cashflow,145.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2013.0)"
+cashflow,146.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2014.0)"
+cashflow,147.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2015.0)"
+cashflow,148.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2016.0)"
+cashflow,149.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2017.0)"
+cashflow,150.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2018.0)"
+cashflow,151.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2019.0)"
+cashflow,152.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2020.0)"
+cashflow,153.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2021.0)"
+cashflow,154.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2022.0)"
+cashflow,155.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2023.0)"
+cashflow,156.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2024.0)"
+cashflow,157.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2013.0)"
+cashflow,158.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2014.0)"
+cashflow,159.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2015.0)"
+cashflow,160.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2016.0)"
+cashflow,161.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2017.0)"
+cashflow,162.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2018.0)"
+cashflow,163.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2019.0)"
+cashflow,164.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2020.0)"
+cashflow,165.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2021.0)"
+cashflow,166.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2022.0)"
+cashflow,167.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2023.0)"
+cashflow,168.0,DQ-02,CRITICAL,"Duplicate (company_id, year)=(BAJAJ-AUTO, 2024.0)"
+profitandloss,1164.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1165.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1166.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1167.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1168.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1169.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1170.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1171.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1172.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1173.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1174.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1175.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1176.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+profitandloss,1177.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1178.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1179.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1180.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1181.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1182.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1183.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1184.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1185.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1186.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1187.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1188.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1189.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+profitandloss,1190.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1191.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1192.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1193.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1194.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1195.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1196.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1197.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1198.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1199.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1200.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1201.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1202.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+profitandloss,1203.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1204.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1205.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1206.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1207.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1208.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1209.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1210.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1211.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1212.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1213.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1214.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1215.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+profitandloss,1216.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1217.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1218.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1219.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1220.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1221.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1222.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1223.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1224.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1225.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1226.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1227.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1228.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+profitandloss,1229.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1230.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1231.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1232.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1233.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1234.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1235.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1236.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1237.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1238.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1239.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1240.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1241.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,1242.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1243.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1244.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1245.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1246.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1247.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1248.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1249.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+profitandloss,1250.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1251.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1252.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1253.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1254.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1255.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1256.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1257.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1258.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1259.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1260.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1261.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+profitandloss,1262.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1033.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1034.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1035.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1036.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1037.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1038.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1039.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1040.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1041.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1042.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1043.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1044.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1045.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+balancesheet,1059.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1060.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1061.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1062.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1063.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1064.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1065.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1066.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+balancesheet,1067.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1068.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1069.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1070.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1071.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1072.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1073.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1074.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1075.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1076.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1077.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1078.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1079.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+balancesheet,1080.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1081.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1082.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1083.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1084.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1085.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1086.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1087.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1088.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1089.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1090.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1091.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1092.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+balancesheet,1118.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1119.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1120.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1121.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1122.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1123.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1124.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1125.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1126.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1127.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1128.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1129.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1130.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+balancesheet,1131.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1132.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1133.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1134.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1135.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1136.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1137.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1138.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1139.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1140.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1141.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1142.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+balancesheet,1156.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1157.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1158.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1159.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1160.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1161.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1162.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1163.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1164.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1165.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1166.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1167.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+balancesheet,1168.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,126.0,DQ-03,CRITICAL,company_id 'AGTL' not found in companies table
+cashflow,127.0,DQ-03,CRITICAL,company_id 'AGTL' not found in companies table
+cashflow,128.0,DQ-03,CRITICAL,company_id 'AGTL' not found in companies table
+cashflow,129.0,DQ-03,CRITICAL,company_id 'AGTL' not found in companies table
+cashflow,130.0,DQ-03,CRITICAL,company_id 'AGTL' not found in companies table
+cashflow,131.0,DQ-03,CRITICAL,company_id 'AGTL' not found in companies table
+cashflow,132.0,DQ-03,CRITICAL,company_id 'AGTL' not found in companies table
+cashflow,1098.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1099.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1100.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1101.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1102.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1103.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1104.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1105.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1106.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1107.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1108.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1109.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+cashflow,1110.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1111.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1112.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1113.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1114.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1115.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1116.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1117.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1118.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1119.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1120.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1121.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+cashflow,1122.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1123.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1124.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1125.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1126.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1127.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1128.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1129.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1130.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1131.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1132.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1133.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+cashflow,1134.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1135.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1136.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1137.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1138.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1139.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1140.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1141.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1142.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1143.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1144.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1145.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+cashflow,1146.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1147.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1148.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1149.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1150.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1151.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1152.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1153.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1154.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1155.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1156.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1157.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+cashflow,1158.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1159.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1160.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1161.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1162.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1163.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1164.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1165.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1166.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1167.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1168.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1169.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+cashflow,1170.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+cashflow,1171.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+cashflow,1172.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+cashflow,1173.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+cashflow,1174.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+cashflow,1175.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1176.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1177.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1178.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1179.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1180.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1181.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1182.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1183.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1184.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1185.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+cashflow,1186.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+analysis,8.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+analysis,9.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+analysis,10.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+analysis,12.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1457.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1458.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1459.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1460.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1461.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1462.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1463.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1464.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1465.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1466.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1467.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1468.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1469.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1470.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1471.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1472.0,DQ-03,CRITICAL,company_id 'ULTRACEMCO' not found in companies table
+documents,1473.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1474.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1475.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1476.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1477.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1478.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1479.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1480.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1481.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1482.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1483.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1484.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1485.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1486.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1487.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1488.0,DQ-03,CRITICAL,company_id 'UNIONBANK' not found in companies table
+documents,1489.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1490.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1491.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1492.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1493.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1494.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1495.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1496.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1497.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1498.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1499.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1500.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1501.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1502.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1503.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1504.0,DQ-03,CRITICAL,company_id 'UNITDSPR' not found in companies table
+documents,1505.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1506.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1507.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1508.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1509.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1510.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1511.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1512.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1513.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1514.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1515.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1516.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1517.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1518.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1519.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1520.0,DQ-03,CRITICAL,company_id 'VBL' not found in companies table
+documents,1521.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1522.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1523.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1524.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1525.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1526.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1527.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1528.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1529.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1530.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1531.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1532.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1533.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1534.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1535.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1536.0,DQ-03,CRITICAL,company_id 'VEDL' not found in companies table
+documents,1537.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1538.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1539.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1540.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1541.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1542.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1543.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1544.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1545.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1546.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1547.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1548.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1549.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1550.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1551.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1552.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+documents,1553.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1554.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1555.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1556.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1557.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1558.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1559.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1560.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1561.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1562.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1563.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1564.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1565.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1566.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1567.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1568.0,DQ-03,CRITICAL,company_id 'ZOMATO' not found in companies table
+documents,1569.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1570.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1571.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1572.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1573.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1574.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1575.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1576.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1577.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1578.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1579.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1580.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1581.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1582.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1583.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+documents,1584.0,DQ-03,CRITICAL,company_id 'ZYDUSLIFE' not found in companies table
+prosandcons,11.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+prosandcons,12.0,DQ-03,CRITICAL,company_id 'WIPRO' not found in companies table
+profitandloss,23.0,DQ-05,WARNING,"OPM mismatch: source=30.0, computed=34.39"
+profitandloss,146.0,DQ-05,WARNING,"OPM mismatch: source=1353.0, computed=30.58"
+profitandloss,147.0,DQ-05,WARNING,"OPM mismatch: source=2307.0, computed=31.47"
+profitandloss,148.0,DQ-05,WARNING,"OPM mismatch: source=3097.0, computed=31.36"
+profitandloss,149.0,DQ-05,WARNING,"OPM mismatch: source=3466.0, computed=32.61"
+profitandloss,150.0,DQ-05,WARNING,"OPM mismatch: source=-5715.0, computed=53.45"
+profitandloss,151.0,DQ-05,WARNING,"OPM mismatch: source=-10277.0, computed=63.12"
+profitandloss,152.0,DQ-05,WARNING,"OPM mismatch: source=-5447.0, computed=49.39"
+profitandloss,153.0,DQ-05,WARNING,"OPM mismatch: source=-9859.0, computed=55.98"
+profitandloss,154.0,DQ-05,WARNING,"OPM mismatch: source=-2510.0, computed=50.12"
+profitandloss,155.0,DQ-05,WARNING,"OPM mismatch: source=3170.0, computed=44.47"
+profitandloss,156.0,DQ-05,WARNING,"OPM mismatch: source=13857.0, computed=34.16"
+profitandloss,157.0,DQ-05,WARNING,"OPM mismatch: source=11952.0, computed=34.69"
+profitandloss,158.0,DQ-05,WARNING,"OPM mismatch: source=9061.0, computed=36.94"
+profitandloss,185.0,DQ-05,WARNING,"OPM mismatch: source=1367.0, computed=32.49"
+profitandloss,186.0,DQ-05,WARNING,"OPM mismatch: source=1986.0, computed=32.25"
+profitandloss,187.0,DQ-05,WARNING,"OPM mismatch: source=2867.0, computed=32.60"
+profitandloss,188.0,DQ-05,WARNING,"OPM mismatch: source=3935.0, computed=32.28"
+profitandloss,189.0,DQ-05,WARNING,"OPM mismatch: source=6310.0, computed=29.50"
+profitandloss,190.0,DQ-05,WARNING,"OPM mismatch: source=7608.0, computed=34.73"
+profitandloss,191.0,DQ-05,WARNING,"OPM mismatch: source=6314.0, computed=40.64"
+profitandloss,192.0,DQ-05,WARNING,"OPM mismatch: source=9906.0, computed=37.55"
+profitandloss,193.0,DQ-05,WARNING,"OPM mismatch: source=16018.0, computed=30.65"
+profitandloss,194.0,DQ-05,WARNING,"OPM mismatch: source=19987.0, computed=29.29"
+profitandloss,195.0,DQ-05,WARNING,"OPM mismatch: source=21417.0, computed=30.42"
+profitandloss,196.0,DQ-05,WARNING,"OPM mismatch: source=1006.0, computed=30.05"
+profitandloss,197.0,DQ-05,WARNING,"OPM mismatch: source=809.0, computed=29.78"
+profitandloss,198.0,DQ-05,WARNING,"OPM mismatch: source=902.0, computed=29.98"
+profitandloss,199.0,DQ-05,WARNING,"OPM mismatch: source=-11700.0, computed=55.44"
+profitandloss,200.0,DQ-05,WARNING,"OPM mismatch: source=-4372.0, computed=43.28"
+profitandloss,201.0,DQ-05,WARNING,"OPM mismatch: source=-9197.0, computed=56.65"
+profitandloss,202.0,DQ-05,WARNING,"OPM mismatch: source=-5414.0, computed=48.79"
+profitandloss,203.0,DQ-05,WARNING,"OPM mismatch: source=-11728.0, computed=51.44"
+profitandloss,204.0,DQ-05,WARNING,"OPM mismatch: source=-6957.0, computed=51.23"
+profitandloss,205.0,DQ-05,WARNING,"OPM mismatch: source=-2948.0, computed=51.12"
+profitandloss,206.0,DQ-05,WARNING,"OPM mismatch: source=6329.0, computed=40.45"
+profitandloss,207.0,DQ-05,WARNING,"OPM mismatch: source=4102.0, computed=37.49"
+profitandloss,208.0,DQ-05,WARNING,"OPM mismatch: source=3526.0, computed=37.42"
+profitandloss,287.0,DQ-05,WARNING,"OPM mismatch: source=655.0, computed=21.18"
+profitandloss,288.0,DQ-05,WARNING,"OPM mismatch: source=-672.0, computed=24.35"
+profitandloss,289.0,DQ-05,WARNING,"OPM mismatch: source=-621.0, computed=23.51"
+profitandloss,290.0,DQ-05,WARNING,"OPM mismatch: source=-8008.0, computed=40.38"
+profitandloss,291.0,DQ-05,WARNING,"OPM mismatch: source=-5775.0, computed=37.85"
+profitandloss,292.0,DQ-05,WARNING,"OPM mismatch: source=-13350.0, computed=61.87"
+profitandloss,293.0,DQ-05,WARNING,"OPM mismatch: source=-11590.0, computed=56.73"
+profitandloss,294.0,DQ-05,WARNING,"OPM mismatch: source=-12867.0, computed=53.88"
+profitandloss,295.0,DQ-05,WARNING,"OPM mismatch: source=-18367.0, computed=61.83"
+profitandloss,296.0,DQ-05,WARNING,"OPM mismatch: source=-13657.0, computed=58.39"
+profitandloss,297.0,DQ-05,WARNING,"OPM mismatch: source=-9877.0, computed=49.80"
+profitandloss,298.0,DQ-05,WARNING,"OPM mismatch: source=-7745.0, computed=41.75"
+profitandloss,299.0,DQ-05,WARNING,"OPM mismatch: source=-8985.0, computed=40.23"
+profitandloss,300.0,DQ-05,WARNING,"OPM mismatch: source=472.0, computed=26.77"
+profitandloss,301.0,DQ-05,WARNING,"OPM mismatch: source=578.0, computed=28.42"
+profitandloss,302.0,DQ-05,WARNING,"OPM mismatch: source=696.0, computed=28.56"
+profitandloss,303.0,DQ-05,WARNING,"OPM mismatch: source=899.0, computed=30.04"
+profitandloss,304.0,DQ-05,WARNING,"OPM mismatch: source=1143.0, computed=28.16"
+profitandloss,305.0,DQ-05,WARNING,"OPM mismatch: source=1451.0, computed=26.10"
+profitandloss,306.0,DQ-05,WARNING,"OPM mismatch: source=1888.0, computed=22.96"
+profitandloss,307.0,DQ-05,WARNING,"OPM mismatch: source=1699.0, computed=27.79"
+profitandloss,308.0,DQ-05,WARNING,"OPM mismatch: source=2094.0, computed=30.40"
+profitandloss,309.0,DQ-05,WARNING,"OPM mismatch: source=2924.0, computed=28.83"
+profitandloss,310.0,DQ-05,WARNING,"OPM mismatch: source=3515.0, computed=28.10"
+profitandloss,311.0,DQ-05,WARNING,"OPM mismatch: source=4548.0, computed=28.10"
+profitandloss,312.0,DQ-05,WARNING,"OPM mismatch: source=5175.0, computed=28.67"
+profitandloss,313.0,DQ-05,WARNING,"OPM mismatch: source=2214.0, computed=73.26"
+profitandloss,314.0,DQ-05,WARNING,"OPM mismatch: source=2147.0, computed=78.90"
+profitandloss,315.0,DQ-05,WARNING,"OPM mismatch: source=2163.0, computed=80.94"
+profitandloss,316.0,DQ-05,WARNING,"OPM mismatch: source=2480.0, computed=82.02"
+profitandloss,317.0,DQ-05,WARNING,"OPM mismatch: source=2496.0, computed=82.66"
+profitandloss,318.0,DQ-05,WARNING,"OPM mismatch: source=2826.0, computed=81.35"
+profitandloss,319.0,DQ-05,WARNING,"OPM mismatch: source=3097.0, computed=81.07"
+profitandloss,320.0,DQ-05,WARNING,"OPM mismatch: source=3206.0, computed=81.29"
+profitandloss,321.0,DQ-05,WARNING,"OPM mismatch: source=4252.0, computed=77.80"
+profitandloss,322.0,DQ-05,WARNING,"OPM mismatch: source=4553.0, computed=79.08"
+profitandloss,323.0,DQ-05,WARNING,"OPM mismatch: source=5027.0, computed=77.91"
+profitandloss,324.0,DQ-05,WARNING,"OPM mismatch: source=6291.0, computed=75.59"
+profitandloss,325.0,DQ-05,WARNING,"OPM mismatch: source=6906.0, computed=74.40"
+profitandloss,326.0,DQ-05,WARNING,"OPM mismatch: source=18087.0, computed=73.52"
+profitandloss,327.0,DQ-05,WARNING,"OPM mismatch: source=17766.0, computed=74.84"
+profitandloss,328.0,DQ-05,WARNING,"OPM mismatch: source=17343.0, computed=76.60"
+profitandloss,329.0,DQ-05,WARNING,"OPM mismatch: source=18714.0, computed=75.96"
+profitandloss,330.0,DQ-05,WARNING,"OPM mismatch: source=12448.0, computed=84.07"
+profitandloss,331.0,DQ-05,WARNING,"OPM mismatch: source=9288.0, computed=89.10"
+profitandloss,332.0,DQ-05,WARNING,"OPM mismatch: source=25007.0, computed=74.89"
+profitandloss,333.0,DQ-05,WARNING,"OPM mismatch: source=21581.0, computed=77.54"
+profitandloss,334.0,DQ-05,WARNING,"OPM mismatch: source=18628.0, computed=79.31"
+profitandloss,335.0,DQ-05,WARNING,"OPM mismatch: source=24721.0, computed=77.47"
+profitandloss,336.0,DQ-05,WARNING,"OPM mismatch: source=44232.0, computed=68.01"
+profitandloss,337.0,DQ-05,WARNING,"OPM mismatch: source=47971.0, computed=66.29"
+profitandloss,338.0,DQ-05,WARNING,"OPM mismatch: source=46610.0, computed=66.78"
+profitandloss,495.0,DQ-05,WARNING,"OPM mismatch: source=3534.0, computed=35.22"
+profitandloss,496.0,DQ-05,WARNING,"OPM mismatch: source=5602.0, computed=31.74"
+profitandloss,497.0,DQ-05,WARNING,"OPM mismatch: source=7214.0, computed=31.90"
+profitandloss,498.0,DQ-05,WARNING,"OPM mismatch: source=9037.0, computed=31.75"
+profitandloss,499.0,DQ-05,WARNING,"OPM mismatch: source=11374.0, computed=32.56"
+profitandloss,500.0,DQ-05,WARNING,"OPM mismatch: source=13374.0, computed=34.63"
+profitandloss,501.0,DQ-05,WARNING,"OPM mismatch: source=16592.0, computed=33.15"
+profitandloss,502.0,DQ-05,WARNING,"OPM mismatch: source=14593.0, computed=37.20"
+profitandloss,503.0,DQ-05,WARNING,"OPM mismatch: source=16848.0, computed=40.81"
+profitandloss,504.0,DQ-05,WARNING,"OPM mismatch: source=20795.0, computed=41.61"
+profitandloss,505.0,DQ-05,WARNING,"OPM mismatch: source=29932.0, computed=36.92"
+profitandloss,506.0,DQ-05,WARNING,"OPM mismatch: source=-44685.0, computed=61.41"
+profitandloss,507.0,DQ-05,WARNING,"OPM mismatch: source=-57587.0, computed=62.61"
+profitandloss,508.0,DQ-05,WARNING,"OPM mismatch: source=525.0, computed=96.27"
+profitandloss,509.0,DQ-05,WARNING,"OPM mismatch: source=605.0, computed=96.48"
+profitandloss,510.0,DQ-05,WARNING,"OPM mismatch: source=874.0, computed=96.79"
+profitandloss,511.0,DQ-05,WARNING,"OPM mismatch: source=953.0, computed=94.74"
+profitandloss,512.0,DQ-05,WARNING,"OPM mismatch: source=972.0, computed=96.83"
+profitandloss,513.0,DQ-05,WARNING,"OPM mismatch: source=1074.0, computed=96.67"
+profitandloss,514.0,DQ-05,WARNING,"OPM mismatch: source=1215.0, computed=96.87"
+profitandloss,515.0,DQ-05,WARNING,"OPM mismatch: source=1141.0, computed=96.12"
+profitandloss,516.0,DQ-05,WARNING,"OPM mismatch: source=1235.0, computed=98.27"
+profitandloss,517.0,DQ-05,WARNING,"OPM mismatch: source=778.0, computed=98.84"
+profitandloss,518.0,DQ-05,WARNING,"OPM mismatch: source=80.0, computed=99.89"
+profitandloss,519.0,DQ-05,WARNING,"OPM mismatch: source=531.0, computed=99.48"
+profitandloss,520.0,DQ-05,WARNING,"OPM mismatch: source=725.0, computed=99.28"
+profitandloss,521.0,DQ-05,WARNING,"OPM mismatch: source=3553.0, computed=85.94"
+profitandloss,522.0,DQ-05,WARNING,"OPM mismatch: source=3520.0, computed=87.22"
+profitandloss,523.0,DQ-05,WARNING,"OPM mismatch: source=4424.0, computed=84.45"
+profitandloss,524.0,DQ-05,WARNING,"OPM mismatch: source=4585.0, computed=83.97"
+profitandloss,525.0,DQ-05,WARNING,"OPM mismatch: source=5334.0, computed=83.57"
+profitandloss,526.0,DQ-05,WARNING,"OPM mismatch: source=5025.0, computed=85.21"
+profitandloss,527.0,DQ-05,WARNING,"OPM mismatch: source=4070.0, computed=86.09"
+profitandloss,528.0,DQ-05,WARNING,"OPM mismatch: source=4058.0, computed=86.90"
+profitandloss,529.0,DQ-05,WARNING,"OPM mismatch: source=3256.0, computed=88.98"
+profitandloss,530.0,DQ-05,WARNING,"OPM mismatch: source=4099.0, computed=88.00"
+profitandloss,531.0,DQ-05,WARNING,"OPM mismatch: source=5235.0, computed=86.15"
+profitandloss,532.0,DQ-05,WARNING,"OPM mismatch: source=5561.0, computed=86.13"
+profitandloss,533.0,DQ-05,WARNING,"OPM mismatch: source=7699.0, computed=90.40"
+profitandloss,534.0,DQ-05,WARNING,"OPM mismatch: source=8024.0, computed=90.85"
+profitandloss,535.0,DQ-05,WARNING,"OPM mismatch: source=8844.0, computed=91.52"
+profitandloss,536.0,DQ-05,WARNING,"OPM mismatch: source=7778.0, computed=92.12"
+profitandloss,537.0,DQ-05,WARNING,"OPM mismatch: source=12317.0, computed=87.71"
+profitandloss,538.0,DQ-05,WARNING,"OPM mismatch: source=13695.0, computed=88.11"
+profitandloss,539.0,DQ-05,WARNING,"OPM mismatch: source=15511.0, computed=88.12"
+profitandloss,540.0,DQ-05,WARNING,"OPM mismatch: source=14306.0, computed=87.89"
+profitandloss,541.0,DQ-05,WARNING,"OPM mismatch: source=17559.0, computed=86.70"
+profitandloss,542.0,DQ-05,WARNING,"OPM mismatch: source=28347.0, computed=85.47"
+profitandloss,543.0,DQ-05,WARNING,"OPM mismatch: source=22666.0, computed=89.85"
+profitandloss,544.0,DQ-05,WARNING,"OPM mismatch: source=23872.0, computed=88.95"
+profitandloss,545.0,DQ-05,WARNING,"OPM mismatch: source=27931.0, computed=87.53"
+profitandloss,546.0,DQ-05,WARNING,"OPM mismatch: source=4220.0, computed=84.37"
+profitandloss,547.0,DQ-05,WARNING,"OPM mismatch: source=4759.0, computed=83.72"
+profitandloss,548.0,DQ-05,WARNING,"OPM mismatch: source=5412.0, computed=83.07"
+profitandloss,549.0,DQ-05,WARNING,"OPM mismatch: source=5910.0, computed=81.64"
+profitandloss,550.0,DQ-05,WARNING,"OPM mismatch: source=6328.0, computed=80.92"
+profitandloss,551.0,DQ-05,WARNING,"OPM mismatch: source=7499.0, computed=78.90"
+profitandloss,552.0,DQ-05,WARNING,"OPM mismatch: source=8880.0, computed=77.41"
+profitandloss,553.0,DQ-05,WARNING,"OPM mismatch: source=9861.0, computed=75.21"
+profitandloss,554.0,DQ-05,WARNING,"OPM mismatch: source=11626.0, computed=75.28"
+profitandloss,555.0,DQ-05,WARNING,"OPM mismatch: source=12857.0, computed=75.49"
+profitandloss,556.0,DQ-05,WARNING,"OPM mismatch: source=14147.0, computed=76.65"
+profitandloss,557.0,DQ-05,WARNING,"OPM mismatch: source=14659.0, computed=76.32"
+profitandloss,558.0,DQ-05,WARNING,"OPM mismatch: source=14759.0, computed=76.45"
+profitandloss,559.0,DQ-05,WARNING,"OPM mismatch: source=-15085.0, computed=70.59"
+profitandloss,560.0,DQ-05,WARNING,"OPM mismatch: source=-13084.0, computed=66.40"
+profitandloss,561.0,DQ-05,WARNING,"OPM mismatch: source=-16120.0, computed=70.53"
+profitandloss,562.0,DQ-05,WARNING,"OPM mismatch: source=-26955.0, computed=88.12"
+profitandloss,563.0,DQ-05,WARNING,"OPM mismatch: source=-37737.0, computed=104.76"
+profitandloss,564.0,DQ-05,WARNING,"OPM mismatch: source=-44906.0, computed=117.12"
+profitandloss,565.0,DQ-05,WARNING,"OPM mismatch: source=-50971.0, computed=116.38"
+profitandloss,566.0,DQ-05,WARNING,"OPM mismatch: source=-45190.0, computed=100.62"
+profitandloss,567.0,DQ-05,WARNING,"OPM mismatch: source=-44805.0, computed=102.41"
+profitandloss,568.0,DQ-05,WARNING,"OPM mismatch: source=-26558.0, computed=84.69"
+profitandloss,569.0,DQ-05,WARNING,"OPM mismatch: source=-17341.0, computed=72.57"
+profitandloss,570.0,DQ-05,WARNING,"OPM mismatch: source=-14152.0, computed=62.41"
+profitandloss,571.0,DQ-05,WARNING,"OPM mismatch: source=-31575.0, computed=69.63"
+profitandloss,572.0,DQ-05,WARNING,"OPM mismatch: source=-178.0, computed=104.46"
+profitandloss,573.0,DQ-05,WARNING,"OPM mismatch: source=-225.0, computed=105.19"
+profitandloss,574.0,DQ-05,WARNING,"OPM mismatch: source=-221.0, computed=105.24"
+profitandloss,575.0,DQ-05,WARNING,"OPM mismatch: source=764.0, computed=87.34"
+profitandloss,576.0,DQ-05,WARNING,"OPM mismatch: source=919.0, computed=87.78"
+profitandloss,577.0,DQ-05,WARNING,"OPM mismatch: source=-262.0, computed=103.79"
+profitandloss,578.0,DQ-05,WARNING,"OPM mismatch: source=1669.0, computed=85.05"
+profitandloss,579.0,DQ-05,WARNING,"OPM mismatch: source=1772.0, computed=84.61"
+profitandloss,580.0,DQ-05,WARNING,"OPM mismatch: source=2072.0, computed=82.97"
+profitandloss,581.0,DQ-05,WARNING,"OPM mismatch: source=1016.0, computed=93.66"
+profitandloss,582.0,DQ-05,WARNING,"OPM mismatch: source=1264.0, computed=92.93"
+profitandloss,583.0,DQ-05,WARNING,"OPM mismatch: source=2577.0, computed=87.42"
+profitandloss,584.0,DQ-05,WARNING,"OPM mismatch: source=3363.0, computed=85.57"
+profitandloss,585.0,DQ-05,WARNING,"OPM mismatch: source=745.0, computed=96.28"
+profitandloss,586.0,DQ-05,WARNING,"OPM mismatch: source=1504.0, computed=93.13"
+profitandloss,587.0,DQ-05,WARNING,"OPM mismatch: source=1655.0, computed=95.20"
+profitandloss,588.0,DQ-05,WARNING,"OPM mismatch: source=1842.0, computed=91.17"
+profitandloss,589.0,DQ-05,WARNING,"OPM mismatch: source=1806.0, computed=95.22"
+profitandloss,590.0,DQ-05,WARNING,"OPM mismatch: source=1771.0, computed=95.44"
+profitandloss,591.0,DQ-05,WARNING,"OPM mismatch: source=541.0, computed=98.70"
+profitandloss,592.0,DQ-05,WARNING,"OPM mismatch: source=-319.0, computed=101.52"
+profitandloss,593.0,DQ-05,WARNING,"OPM mismatch: source=-390.0, computed=100.47"
+profitandloss,594.0,DQ-05,WARNING,"OPM mismatch: source=-2163.0, computed=103.40"
+profitandloss,595.0,DQ-05,WARNING,"OPM mismatch: source=-1757.0, computed=103.48"
+profitandloss,596.0,DQ-05,WARNING,"OPM mismatch: source=-1829.0, computed=102.03"
+profitandloss,597.0,DQ-05,WARNING,"OPM mismatch: source=321.0, computed=99.59"
+profitandloss,598.0,DQ-05,WARNING,"OPM mismatch: source=286.0, computed=27.88"
+profitandloss,599.0,DQ-05,WARNING,"OPM mismatch: source=335.0, computed=30.95"
+profitandloss,600.0,DQ-05,WARNING,"OPM mismatch: source=288.0, computed=32.33"
+profitandloss,601.0,DQ-05,WARNING,"OPM mismatch: source=329.0, computed=35.28"
+profitandloss,602.0,DQ-05,WARNING,"OPM mismatch: source=379.0, computed=39.46"
+profitandloss,603.0,DQ-05,WARNING,"OPM mismatch: source=942.0, computed=37.93"
+profitandloss,604.0,DQ-05,WARNING,"OPM mismatch: source=-437.0, computed=41.70"
+profitandloss,605.0,DQ-05,WARNING,"OPM mismatch: source=-553.0, computed=43.81"
+profitandloss,606.0,DQ-05,WARNING,"OPM mismatch: source=-2469.0, computed=55.16"
+profitandloss,607.0,DQ-05,WARNING,"OPM mismatch: source=-839.0, computed=51.39"
+profitandloss,608.0,DQ-05,WARNING,"OPM mismatch: source=2067.0, computed=42.69"
+profitandloss,609.0,DQ-05,WARNING,"OPM mismatch: source=2978.0, computed=38.55"
+profitandloss,610.0,DQ-05,WARNING,"OPM mismatch: source=1323.0, computed=41.03"
+profitandloss,687.0,DQ-05,WARNING,"OPM mismatch: source=88.0, computed=86.67"
+profitandloss,716.0,DQ-05,WARNING,"OPM mismatch: source=-1789.0, computed=60.92"
+profitandloss,717.0,DQ-05,WARNING,"OPM mismatch: source=-1379.0, computed=58.84"
+profitandloss,718.0,DQ-05,WARNING,"OPM mismatch: source=-3366.0, computed=72.96"
+profitandloss,719.0,DQ-05,WARNING,"OPM mismatch: source=-2263.0, computed=56.57"
+profitandloss,720.0,DQ-05,WARNING,"OPM mismatch: source=-3965.0, computed=66.44"
+profitandloss,721.0,DQ-05,WARNING,"OPM mismatch: source=-4141.0, computed=66.87"
+profitandloss,722.0,DQ-05,WARNING,"OPM mismatch: source=-5114.0, computed=66.23"
+profitandloss,723.0,DQ-05,WARNING,"OPM mismatch: source=-5005.0, computed=67.45"
+profitandloss,724.0,DQ-05,WARNING,"OPM mismatch: source=-9958.0, computed=90.83"
+profitandloss,725.0,DQ-05,WARNING,"OPM mismatch: source=-8512.0, computed=90.98"
+profitandloss,726.0,DQ-05,WARNING,"OPM mismatch: source=-5746.0, computed=79.44"
+profitandloss,727.0,DQ-05,WARNING,"OPM mismatch: source=-13382.0, computed=83.67"
+profitandloss,728.0,DQ-05,WARNING,"OPM mismatch: source=-14146.0, computed=79.42"
+profitandloss,1032.0,DQ-05,WARNING,"OPM mismatch: source=28.0, computed=26.84"
+profitandloss,1263.0,DQ-05,WARNING,"OPM mismatch: source=855.0, computed=90.71"
+profitandloss,1264.0,DQ-05,WARNING,"OPM mismatch: source=433.0, computed=96.11"
+profitandloss,1265.0,DQ-05,WARNING,"OPM mismatch: source=1904.0, computed=86.33"
+profitandloss,1266.0,DQ-05,WARNING,"OPM mismatch: source=3164.0, computed=80.40"
+profitandloss,1267.0,DQ-05,WARNING,"OPM mismatch: source=2219.0, computed=88.06"
+profitandloss,1268.0,DQ-05,WARNING,"OPM mismatch: source=3030.0, computed=86.84"
+profitandloss,1269.0,DQ-05,WARNING,"OPM mismatch: source=-151.0, computed=100.53"
+profitandloss,1270.0,DQ-05,WARNING,"OPM mismatch: source=4069.0, computed=88.62"
+profitandloss,1271.0,DQ-05,WARNING,"OPM mismatch: source=2.0, computed=99.98"
+profitandloss,1272.0,DQ-05,WARNING,"OPM mismatch: source=558.0, computed=97.85"
+profitandloss,1273.0,DQ-05,WARNING,"OPM mismatch: source=6521.0, computed=88.02"
+profitandloss,1274.0,DQ-05,WARNING,"OPM mismatch: source=16331.0, computed=76.30"
+profitandloss,1275.0,DQ-05,WARNING,"OPM mismatch: source=15908.0, computed=79.20"
+profitandloss,13.0,DQ-06,WARNING,sales <= 0 (0)
+cashflow,0.0,DQ-07,CRITICAL,Unparseable year value: Mar-13
+cashflow,1.0,DQ-07,CRITICAL,Unparseable year value: Mar-14
+cashflow,2.0,DQ-07,CRITICAL,Unparseable year value: Mar-15
+cashflow,3.0,DQ-07,CRITICAL,Unparseable year value: Mar-16
+cashflow,4.0,DQ-07,CRITICAL,Unparseable year value: Mar-17
+cashflow,5.0,DQ-07,CRITICAL,Unparseable year value: Mar-18
+cashflow,6.0,DQ-07,CRITICAL,Unparseable year value: Mar-19
+cashflow,7.0,DQ-07,CRITICAL,Unparseable year value: Mar-20
+cashflow,8.0,DQ-07,CRITICAL,Unparseable year value: Mar-21
+cashflow,9.0,DQ-07,CRITICAL,Unparseable year value: Mar-22
+cashflow,10.0,DQ-07,CRITICAL,Unparseable year value: Mar-23
+cashflow,11.0,DQ-07,CRITICAL,Unparseable year value: Mar-24
+cashflow,1095.0,DQ-09,WARNING,"net_cash_flow mismatch: source=532.0, computed=-128.0"
+profitandloss,26.0,DQ-11,WARNING,tax_percentage out of range: -64.0
+profitandloss,38.0,DQ-11,WARNING,tax_percentage out of range: -75.0
+profitandloss,39.0,DQ-11,WARNING,tax_percentage out of range: -35.0
+profitandloss,40.0,DQ-11,WARNING,tax_percentage out of range: -19.0
+profitandloss,74.0,DQ-11,WARNING,tax_percentage out of range: -79.0
+profitandloss,76.0,DQ-11,WARNING,tax_percentage out of range: -47.0
+profitandloss,77.0,DQ-11,WARNING,tax_percentage out of range: -1.0
+profitandloss,83.0,DQ-11,WARNING,tax_percentage out of range: -40.0
+profitandloss,92.0,DQ-11,WARNING,tax_percentage out of range: -2.0
+profitandloss,104.0,DQ-11,WARNING,tax_percentage out of range: 65.0
+profitandloss,151.0,DQ-11,WARNING,tax_percentage out of range: -99.0
+profitandloss,153.0,DQ-11,WARNING,tax_percentage out of range: 67.0
+profitandloss,199.0,DQ-11,WARNING,tax_percentage out of range: -19.0
+profitandloss,201.0,DQ-11,WARNING,tax_percentage out of range: -9.0
+profitandloss,203.0,DQ-11,WARNING,tax_percentage out of range: -99.0
+profitandloss,204.0,DQ-11,WARNING,tax_percentage out of range: 77.0
+profitandloss,210.0,DQ-11,WARNING,tax_percentage out of range: 62.0
+profitandloss,215.0,DQ-11,WARNING,tax_percentage out of range: -99.0
+profitandloss,216.0,DQ-11,WARNING,tax_percentage out of range: -28.0
+profitandloss,217.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,238.0,DQ-11,WARNING,tax_percentage out of range: -39.0
+profitandloss,240.0,DQ-11,WARNING,tax_percentage out of range: 64.0
+profitandloss,242.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,243.0,DQ-11,WARNING,tax_percentage out of range: -25.0
+profitandloss,246.0,DQ-11,WARNING,tax_percentage out of range: -16.0
+profitandloss,290.0,DQ-11,WARNING,tax_percentage out of range: -13.0
+profitandloss,292.0,DQ-11,WARNING,tax_percentage out of range: -36.0
+profitandloss,293.0,DQ-11,WARNING,tax_percentage out of range: -99.0
+profitandloss,366.0,DQ-11,WARNING,tax_percentage out of range: -16.0
+profitandloss,372.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,398.0,DQ-11,WARNING,tax_percentage out of range: -7.0
+profitandloss,436.0,DQ-11,WARNING,tax_percentage out of range: -12.0
+profitandloss,441.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,450.0,DQ-11,WARNING,tax_percentage out of range: -1.0
+profitandloss,519.0,DQ-11,WARNING,tax_percentage out of range: -61.0
+profitandloss,535.0,DQ-11,WARNING,tax_percentage out of range: 75.0
+profitandloss,536.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,631.0,DQ-11,WARNING,tax_percentage out of range: -74.0
+profitandloss,648.0,DQ-11,WARNING,tax_percentage out of range: 64.0
+profitandloss,676.0,DQ-11,WARNING,tax_percentage out of range: -6.0
+profitandloss,677.0,DQ-11,WARNING,tax_percentage out of range: -22.0
+profitandloss,678.0,DQ-11,WARNING,tax_percentage out of range: -17.0
+profitandloss,679.0,DQ-11,WARNING,tax_percentage out of range: -13.0
+profitandloss,680.0,DQ-11,WARNING,tax_percentage out of range: -14.0
+profitandloss,695.0,DQ-11,WARNING,tax_percentage out of range: 75.0
+profitandloss,704.0,DQ-11,WARNING,tax_percentage out of range: 70.0
+profitandloss,706.0,DQ-11,WARNING,tax_percentage out of range: -80.0
+profitandloss,710.0,DQ-11,WARNING,tax_percentage out of range: -30.0
+profitandloss,729.0,DQ-11,WARNING,tax_percentage out of range: 68.0
+profitandloss,730.0,DQ-11,WARNING,tax_percentage out of range: 80.0
+profitandloss,731.0,DQ-11,WARNING,tax_percentage out of range: 76.0
+profitandloss,732.0,DQ-11,WARNING,tax_percentage out of range: 66.0
+profitandloss,744.0,DQ-11,WARNING,tax_percentage out of range: -44.0
+profitandloss,746.0,DQ-11,WARNING,tax_percentage out of range: -8.0
+profitandloss,782.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,808.0,DQ-11,WARNING,tax_percentage out of range: -5.0
+profitandloss,816.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,818.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,821.0,DQ-11,WARNING,tax_percentage out of range: 95.0
+profitandloss,824.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,847.0,DQ-11,WARNING,tax_percentage out of range: -2.0
+profitandloss,849.0,DQ-11,WARNING,tax_percentage out of range: -17.0
+profitandloss,856.0,DQ-11,WARNING,tax_percentage out of range: -2.0
+profitandloss,859.0,DQ-11,WARNING,tax_percentage out of range: -25.0
+profitandloss,908.0,DQ-11,WARNING,tax_percentage out of range: -31.0
+profitandloss,910.0,DQ-11,WARNING,tax_percentage out of range: -37.0
+profitandloss,911.0,DQ-11,WARNING,tax_percentage out of range: -35.0
+profitandloss,924.0,DQ-11,WARNING,tax_percentage out of range: -10.0
+profitandloss,974.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,975.0,DQ-11,WARNING,tax_percentage out of range: -66.0
+profitandloss,985.0,DQ-11,WARNING,tax_percentage out of range: -6.0
+profitandloss,1037.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1053.0,DQ-11,WARNING,tax_percentage out of range: -8.0
+profitandloss,1058.0,DQ-11,WARNING,tax_percentage out of range: -14.0
+profitandloss,1060.0,DQ-11,WARNING,tax_percentage out of range: 92.0
+profitandloss,1061.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1062.0,DQ-11,WARNING,tax_percentage out of range: 72.0
+profitandloss,1073.0,DQ-11,WARNING,tax_percentage out of range: 78.0
+profitandloss,1075.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1076.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1077.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1080.0,DQ-11,WARNING,tax_percentage out of range: -99.0
+profitandloss,1084.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1138.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1139.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1146.0,DQ-11,WARNING,tax_percentage out of range: -12.0
+profitandloss,1147.0,DQ-11,WARNING,tax_percentage out of range: 69.0
+profitandloss,1171.0,DQ-11,WARNING,tax_percentage out of range: -11.0
+profitandloss,1181.0,DQ-11,WARNING,tax_percentage out of range: -58.0
+profitandloss,1182.0,DQ-11,WARNING,tax_percentage out of range: -21.0
+profitandloss,1183.0,DQ-11,WARNING,tax_percentage out of range: -25.0
+profitandloss,1184.0,DQ-11,WARNING,tax_percentage out of range: -27.0
+profitandloss,1185.0,DQ-11,WARNING,tax_percentage out of range: -22.0
+profitandloss,1190.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1193.0,DQ-11,WARNING,tax_percentage out of range: 61.0
+profitandloss,1203.0,DQ-11,WARNING,tax_percentage out of range: -20.0
+profitandloss,1204.0,DQ-11,WARNING,tax_percentage out of range: -11.0
+profitandloss,1205.0,DQ-11,WARNING,tax_percentage out of range: 99.0
+profitandloss,1216.0,DQ-11,WARNING,tax_percentage out of range: -25.0
+profitandloss,1217.0,DQ-11,WARNING,tax_percentage out of range: -9.0
+profitandloss,1219.0,DQ-11,WARNING,tax_percentage out of range: -37.0
+profitandloss,1223.0,DQ-11,WARNING,tax_percentage out of range: -43.0
+profitandloss,1227.0,DQ-11,WARNING,tax_percentage out of range: 63.0
+profitandloss,1247.0,DQ-11,WARNING,tax_percentage out of range: -4.0
+profitandloss,1248.0,DQ-11,WARNING,tax_percentage out of range: -21.0
+profitandloss,1269.0,DQ-11,WARNING,tax_percentage out of range: -99.0
+profitandloss,1270.0,DQ-11,WARNING,tax_percentage out of range: -10.0
+profitandloss,1274.0,DQ-11,WARNING,tax_percentage out of range: -2.0
+profitandloss,215.0,DQ-12,WARNING,dividend_payout > 200: 244.0
+profitandloss,282.0,DQ-12,WARNING,dividend_payout > 200: 204.0
+profitandloss,782.0,DQ-12,WARNING,dividend_payout > 200: 205.0
+profitandloss,974.0,DQ-12,WARNING,dividend_payout > 200: 859.0
+profitandloss,1062.0,DQ-12,WARNING,dividend_payout > 200: 210.0
+profitandloss,1226.0,DQ-12,WARNING,dividend_payout > 200: 357.0
+profitandloss,1227.0,DQ-12,WARNING,dividend_payout > 200: 259.0
+documents,25.0,DQ-13,WARNING,Invalid URL format: Null
+documents,26.0,DQ-13,WARNING,Invalid URL format: Null
+documents,27.0,DQ-13,WARNING,Invalid URL format: Null
+documents,28.0,DQ-13,WARNING,Invalid URL format: Null
+documents,29.0,DQ-13,WARNING,Invalid URL format: Null
+documents,30.0,DQ-13,WARNING,Invalid URL format: Null
+documents,31.0,DQ-13,WARNING,Invalid URL format: Null
+documents,45.0,DQ-13,WARNING,Annual_Report URL missing
+documents,46.0,DQ-13,WARNING,Annual_Report URL missing
+documents,47.0,DQ-13,WARNING,Annual_Report URL missing
+documents,55.0,DQ-13,WARNING,Invalid URL format: Null
+documents,56.0,DQ-13,WARNING,Invalid URL format: Null
+documents,57.0,DQ-13,WARNING,Invalid URL format: Null
+documents,58.0,DQ-13,WARNING,Invalid URL format: Null
+documents,59.0,DQ-13,WARNING,Invalid URL format: Null
+documents,60.0,DQ-13,WARNING,Invalid URL format: Null
+documents,61.0,DQ-13,WARNING,Invalid URL format: Null
+documents,62.0,DQ-13,WARNING,Invalid URL format: Null
+documents,63.0,DQ-13,WARNING,Invalid URL format: Null
+documents,69.0,DQ-13,WARNING,Invalid URL format: Null
+documents,70.0,DQ-13,WARNING,Invalid URL format: Null
+documents,71.0,DQ-13,WARNING,Invalid URL format: Null
+documents,73.0,DQ-13,WARNING,Invalid URL format: Null
+documents,74.0,DQ-13,WARNING,Invalid URL format: Null
+documents,75.0,DQ-13,WARNING,Invalid URL format: Null
+documents,76.0,DQ-13,WARNING,Invalid URL format: Null
+documents,78.0,DQ-13,WARNING,Invalid URL format: Null
+documents,79.0,DQ-13,WARNING,Invalid URL format: Null
+documents,89.0,DQ-13,WARNING,Invalid URL format: Null
+documents,90.0,DQ-13,WARNING,Invalid URL format: Null
+documents,91.0,DQ-13,WARNING,Invalid URL format: Null
+documents,93.0,DQ-13,WARNING,Invalid URL format: Null
+documents,94.0,DQ-13,WARNING,Invalid URL format: Null
+documents,95.0,DQ-13,WARNING,Invalid URL format: Null
+documents,106.0,DQ-13,WARNING,Invalid URL format: Null
+documents,107.0,DQ-13,WARNING,Invalid URL format: Null
+documents,108.0,DQ-13,WARNING,Invalid URL format: Null
+documents,110.0,DQ-13,WARNING,Invalid URL format: Null
+documents,111.0,DQ-13,WARNING,Invalid URL format: Null
+documents,117.0,DQ-13,WARNING,Invalid URL format: Null
+documents,121.0,DQ-13,WARNING,Invalid URL format: Null
+documents,126.0,DQ-13,WARNING,Invalid URL format: Null
+documents,127.0,DQ-13,WARNING,Invalid URL format: Null
+documents,139.0,DQ-13,WARNING,Invalid URL format: Null
+documents,140.0,DQ-13,WARNING,Invalid URL format: Null
+documents,142.0,DQ-13,WARNING,Invalid URL format: Null
+documents,143.0,DQ-13,WARNING,Invalid URL format: Null
+documents,150.0,DQ-13,WARNING,Invalid URL format: Null
+documents,151.0,DQ-13,WARNING,Invalid URL format: Null
+documents,152.0,DQ-13,WARNING,Invalid URL format: Null
+documents,153.0,DQ-13,WARNING,Invalid URL format: Null
+documents,154.0,DQ-13,WARNING,Invalid URL format: Null
+documents,155.0,DQ-13,WARNING,Invalid URL format: Null
+documents,156.0,DQ-13,WARNING,Invalid URL format: Null
+documents,157.0,DQ-13,WARNING,Invalid URL format: Null
+documents,158.0,DQ-13,WARNING,Invalid URL format: Null
+documents,159.0,DQ-13,WARNING,Invalid URL format: Null
+documents,174.0,DQ-13,WARNING,Invalid URL format: Null
+documents,175.0,DQ-13,WARNING,Invalid URL format: Null
+documents,186.0,DQ-13,WARNING,Invalid URL format: Null
+documents,190.0,DQ-13,WARNING,Invalid URL format: Null
+documents,191.0,DQ-13,WARNING,Invalid URL format: Null
+documents,206.0,DQ-13,WARNING,Invalid URL format: Null
+documents,207.0,DQ-13,WARNING,Invalid URL format: Null
+documents,222.0,DQ-13,WARNING,Invalid URL format: Null
+documents,223.0,DQ-13,WARNING,Invalid URL format: Null
+documents,238.0,DQ-13,WARNING,Invalid URL format: Null
+documents,239.0,DQ-13,WARNING,Invalid URL format: Null
+documents,254.0,DQ-13,WARNING,Annual_Report URL missing
+documents,255.0,DQ-13,WARNING,Annual_Report URL missing
+documents,258.0,DQ-13,WARNING,Annual_Report URL missing
+documents,261.0,DQ-13,WARNING,Annual_Report URL missing
+documents,265.0,DQ-13,WARNING,Annual_Report URL missing
+documents,268.0,DQ-13,WARNING,Annual_Report URL missing
+documents,269.0,DQ-13,WARNING,Annual_Report URL missing
+documents,270.0,DQ-13,WARNING,Annual_Report URL missing
+documents,271.0,DQ-13,WARNING,Annual_Report URL missing
+documents,275.0,DQ-13,WARNING,Annual_Report URL missing
+documents,278.0,DQ-13,WARNING,Annual_Report URL missing
+documents,285.0,DQ-13,WARNING,Annual_Report URL missing
+documents,286.0,DQ-13,WARNING,Annual_Report URL missing
+documents,287.0,DQ-13,WARNING,Annual_Report URL missing
+documents,297.0,DQ-13,WARNING,Annual_Report URL missing
+documents,298.0,DQ-13,WARNING,Annual_Report URL missing
+documents,299.0,DQ-13,WARNING,Annual_Report URL missing
+documents,300.0,DQ-13,WARNING,Annual_Report URL missing
+documents,301.0,DQ-13,WARNING,Annual_Report URL missing
+documents,302.0,DQ-13,WARNING,Annual_Report URL missing
+documents,303.0,DQ-13,WARNING,Annual_Report URL missing
+documents,309.0,DQ-13,WARNING,Annual_Report URL missing
+documents,310.0,DQ-13,WARNING,Annual_Report URL missing
+documents,311.0,DQ-13,WARNING,Annual_Report URL missing
+documents,314.0,DQ-13,WARNING,Annual_Report URL missing
+documents,315.0,DQ-13,WARNING,Annual_Report URL missing
+documents,316.0,DQ-13,WARNING,Annual_Report URL missing
+documents,317.0,DQ-13,WARNING,Annual_Report URL missing
+documents,318.0,DQ-13,WARNING,Annual_Report URL missing
+documents,319.0,DQ-13,WARNING,Annual_Report URL missing
+documents,322.0,DQ-13,WARNING,Annual_Report URL missing
+documents,325.0,DQ-13,WARNING,Annual_Report URL missing
+documents,328.0,DQ-13,WARNING,Annual_Report URL missing
+documents,329.0,DQ-13,WARNING,Annual_Report URL missing
+documents,334.0,DQ-13,WARNING,Annual_Report URL missing
+documents,335.0,DQ-13,WARNING,Annual_Report URL missing
+documents,350.0,DQ-13,WARNING,Invalid URL format: Null
+documents,351.0,DQ-13,WARNING,Invalid URL format: Null
+documents,366.0,DQ-13,WARNING,Invalid URL format: Null
+documents,367.0,DQ-13,WARNING,Invalid URL format: Null
+documents,377.0,DQ-13,WARNING,Invalid URL format: Null
+documents,382.0,DQ-13,WARNING,Invalid URL format: Null
+documents,383.0,DQ-13,WARNING,Invalid URL format: Null
+documents,398.0,DQ-13,WARNING,Invalid URL format: Null
+documents,399.0,DQ-13,WARNING,Invalid URL format: Null
+documents,414.0,DQ-13,WARNING,Invalid URL format: Null
+documents,430.0,DQ-13,WARNING,Invalid URL format: Null
+documents,431.0,DQ-13,WARNING,Invalid URL format: Null
+documents,438.0,DQ-13,WARNING,Annual_Report URL missing
+documents,439.0,DQ-13,WARNING,Annual_Report URL missing
+documents,446.0,DQ-13,WARNING,Invalid URL format: Null
+documents,447.0,DQ-13,WARNING,Invalid URL format: Null
+documents,456.0,DQ-13,WARNING,Invalid URL format: Null
+documents,457.0,DQ-13,WARNING,Invalid URL format: Null
+documents,458.0,DQ-13,WARNING,Invalid URL format: Null
+documents,459.0,DQ-13,WARNING,Invalid URL format: Null
+documents,460.0,DQ-13,WARNING,Invalid URL format: Null
+documents,461.0,DQ-13,WARNING,Invalid URL format: Null
+documents,462.0,DQ-13,WARNING,Invalid URL format: Null
+documents,463.0,DQ-13,WARNING,Invalid URL format: Null
+documents,477.0,DQ-13,WARNING,Invalid URL format: Null
+documents,478.0,DQ-13,WARNING,Invalid URL format: Null
+documents,479.0,DQ-13,WARNING,Invalid URL format: Null
+documents,485.0,DQ-13,WARNING,Annual_Report URL missing
+documents,494.0,DQ-13,WARNING,Invalid URL format: Null
+documents,495.0,DQ-13,WARNING,Invalid URL format: Null
+documents,510.0,DQ-13,WARNING,Invalid URL format: Null
+documents,511.0,DQ-13,WARNING,Invalid URL format: Null
+documents,526.0,DQ-13,WARNING,Invalid URL format: Null
+documents,527.0,DQ-13,WARNING,Invalid URL format: Null
+documents,542.0,DQ-13,WARNING,Invalid URL format: Null
+documents,543.0,DQ-13,WARNING,Invalid URL format: Null
+documents,557.0,DQ-13,WARNING,Annual_Report URL missing
+documents,560.0,DQ-13,WARNING,Invalid URL format: Null
+documents,573.0,DQ-13,WARNING,Invalid URL format: Null
+documents,574.0,DQ-13,WARNING,Invalid URL format: Null
+documents,588.0,DQ-13,WARNING,Invalid URL format: Null
+documents,589.0,DQ-13,WARNING,Invalid URL format: Null
+documents,590.0,DQ-13,WARNING,Invalid URL format: Null
+documents,602.0,DQ-13,WARNING,Invalid URL format: Null
+documents,604.0,DQ-13,WARNING,Invalid URL format: Null
+documents,605.0,DQ-13,WARNING,Invalid URL format: Null
+documents,606.0,DQ-13,WARNING,Invalid URL format: Null
+documents,619.0,DQ-13,WARNING,Invalid URL format: Null
+documents,620.0,DQ-13,WARNING,Invalid URL format: Null
+documents,621.0,DQ-13,WARNING,Invalid URL format: Null
+documents,622.0,DQ-13,WARNING,Invalid URL format: Null
+documents,623.0,DQ-13,WARNING,Invalid URL format: Null
+documents,639.0,DQ-13,WARNING,Invalid URL format: Null
+documents,640.0,DQ-13,WARNING,Invalid URL format: Null
+documents,655.0,DQ-13,WARNING,Invalid URL format: Null
+documents,656.0,DQ-13,WARNING,Invalid URL format: Null
+documents,671.0,DQ-13,WARNING,Invalid URL format: Null
+documents,672.0,DQ-13,WARNING,Invalid URL format: Null
+documents,688.0,DQ-13,WARNING,Invalid URL format: Null
+documents,704.0,DQ-13,WARNING,Invalid URL format: Null
+documents,718.0,DQ-13,WARNING,Invalid URL format: Null
+documents,719.0,DQ-13,WARNING,Invalid URL format: Null
+documents,720.0,DQ-13,WARNING,Invalid URL format: Null
+documents,730.0,DQ-13,WARNING,Invalid URL format: Null
+documents,731.0,DQ-13,WARNING,Invalid URL format: Null
+documents,732.0,DQ-13,WARNING,Invalid URL format: Null
+documents,733.0,DQ-13,WARNING,Invalid URL format: Null
+documents,734.0,DQ-13,WARNING,Invalid URL format: Null
+documents,735.0,DQ-13,WARNING,Invalid URL format: Null
+documents,736.0,DQ-13,WARNING,Invalid URL format: Null
+documents,751.0,DQ-13,WARNING,Invalid URL format: Null
+documents,752.0,DQ-13,WARNING,Invalid URL format: Null
+documents,767.0,DQ-13,WARNING,Invalid URL format: Null
+documents,768.0,DQ-13,WARNING,Invalid URL format: Null
+documents,769.0,DQ-13,WARNING,Invalid URL format: bseindia.com/xml-data/corpfiling/AttachHis/24a0940c-fa5a-4e36-a404-9dab3637ea0c.pdf
+documents,770.0,DQ-13,WARNING,Invalid URL format: bseindia.com/xml-data/corpfiling/AttachHis//ae413f27-7b30-4cdb-8f1b-8d82e5914e54.pdf
+documents,783.0,DQ-13,WARNING,Invalid URL format: Null
+documents,784.0,DQ-13,WARNING,Invalid URL format: Null
+documents,790.0,DQ-13,WARNING,Invalid URL format: Null
+documents,791.0,DQ-13,WARNING,Invalid URL format: Null
+documents,792.0,DQ-13,WARNING,Invalid URL format: Null
+documents,793.0,DQ-13,WARNING,Invalid URL format: Null
+documents,794.0,DQ-13,WARNING,Invalid URL format: Null
+documents,795.0,DQ-13,WARNING,Invalid URL format: Null
+documents,796.0,DQ-13,WARNING,Invalid URL format: Null
+documents,797.0,DQ-13,WARNING,Invalid URL format: Null
+documents,798.0,DQ-13,WARNING,Invalid URL format: Null
+documents,799.0,DQ-13,WARNING,Invalid URL format: Null
+documents,800.0,DQ-13,WARNING,Invalid URL format: Null
+documents,805.0,DQ-13,WARNING,Invalid URL format: Null
+documents,806.0,DQ-13,WARNING,Invalid URL format: Null
+documents,807.0,DQ-13,WARNING,Invalid URL format: Null
+documents,808.0,DQ-13,WARNING,Invalid URL format: Null
+documents,809.0,DQ-13,WARNING,Invalid URL format: Null
+documents,810.0,DQ-13,WARNING,Invalid URL format: Null
+documents,811.0,DQ-13,WARNING,Invalid URL format: Null
+documents,812.0,DQ-13,WARNING,Invalid URL format: Null
+documents,813.0,DQ-13,WARNING,Invalid URL format: Null
+documents,814.0,DQ-13,WARNING,Invalid URL format: Null
+documents,815.0,DQ-13,WARNING,Invalid URL format: Null
+documents,816.0,DQ-13,WARNING,Invalid URL format: Null
+documents,830.0,DQ-13,WARNING,Annual_Report URL missing
+documents,831.0,DQ-13,WARNING,Annual_Report URL missing
+documents,832.0,DQ-13,WARNING,Annual_Report URL missing
+documents,847.0,DQ-13,WARNING,Annual_Report URL missing
+documents,848.0,DQ-13,WARNING,Annual_Report URL missing
+documents,850.0,DQ-13,WARNING,Invalid URL format: Null
+documents,851.0,DQ-13,WARNING,Invalid URL format: Null
+documents,852.0,DQ-13,WARNING,Invalid URL format: Null
+documents,853.0,DQ-13,WARNING,Invalid URL format: Null
+documents,854.0,DQ-13,WARNING,Invalid URL format: Null
+documents,855.0,DQ-13,WARNING,Invalid URL format: Null
+documents,856.0,DQ-13,WARNING,Invalid URL format: Null
+documents,857.0,DQ-13,WARNING,Invalid URL format: Null
+documents,858.0,DQ-13,WARNING,Invalid URL format: Null
+documents,859.0,DQ-13,WARNING,Invalid URL format: Null
+documents,860.0,DQ-13,WARNING,Invalid URL format: Null
+documents,861.0,DQ-13,WARNING,Invalid URL format: Null
+documents,862.0,DQ-13,WARNING,Invalid URL format: Null
+documents,863.0,DQ-13,WARNING,Invalid URL format: Null
+documents,864.0,DQ-13,WARNING,Invalid URL format: Null
+documents,878.0,DQ-13,WARNING,Invalid URL format: Null
+documents,879.0,DQ-13,WARNING,Invalid URL format: Null
+documents,880.0,DQ-13,WARNING,Invalid URL format: Null
+documents,895.0,DQ-13,WARNING,Invalid URL format: Null
+documents,896.0,DQ-13,WARNING,Invalid URL format: Null
+documents,898.0,DQ-13,WARNING,Invalid URL format: bseindia.com/xml-data/corpfiling/AttachHis//b9e0c871-3353-4ef4-855e-069bcfd848e1.pdf
+documents,899.0,DQ-13,WARNING,Invalid URL format: bseindia.com/bseplus/AnnualReport/500247/73932500247.pdf
+documents,900.0,DQ-13,WARNING,Invalid URL format: bseindia.com/bseplus/AnnualReport/500247/69160500247.pdf
+documents,904.0,DQ-13,WARNING,Invalid URL format: bseindia.com/bseplus/AnnualReport/500247/5002470317.pdf
+documents,905.0,DQ-13,WARNING,Invalid URL format: 5002470316.pdf
+documents,906.0,DQ-13,WARNING,Invalid URL format: 5002470315.pdf
+documents,908.0,DQ-13,WARNING,Invalid URL format: untitled
+documents,909.0,DQ-13,WARNING,Invalid URL format: bseindia.com/bseplus/AnnualReport/500247/5002470312.pdf
+documents,910.0,DQ-13,WARNING,Invalid URL format: 5002470311.pdf
+documents,911.0,DQ-13,WARNING,Invalid URL format: Null
+documents,912.0,DQ-13,WARNING,Invalid URL format: Null
+documents,919.0,DQ-13,WARNING,Invalid URL format: Null
+documents,920.0,DQ-13,WARNING,Invalid URL format: Null
+documents,921.0,DQ-13,WARNING,Invalid URL format: Null
+documents,922.0,DQ-13,WARNING,Invalid URL format: Null
+documents,923.0,DQ-13,WARNING,Invalid URL format: Null
+documents,924.0,DQ-13,WARNING,Invalid URL format: Null
+documents,925.0,DQ-13,WARNING,Invalid URL format: Null
+documents,926.0,DQ-13,WARNING,Invalid URL format: Null
+documents,927.0,DQ-13,WARNING,Invalid URL format: Null
+documents,928.0,DQ-13,WARNING,Invalid URL format: Null
+documents,933.0,DQ-13,WARNING,Invalid URL format: Null
+documents,934.0,DQ-13,WARNING,Invalid URL format: Null
+documents,935.0,DQ-13,WARNING,Invalid URL format: Null
+documents,936.0,DQ-13,WARNING,Invalid URL format: Null
+documents,937.0,DQ-13,WARNING,Invalid URL format: Null
+documents,938.0,DQ-13,WARNING,Invalid URL format: Null
+documents,939.0,DQ-13,WARNING,Invalid URL format: Null
+documents,940.0,DQ-13,WARNING,Invalid URL format: Null
+documents,941.0,DQ-13,WARNING,Invalid URL format: Null
+documents,942.0,DQ-13,WARNING,Invalid URL format: Null
+documents,943.0,DQ-13,WARNING,Invalid URL format: Null
+documents,944.0,DQ-13,WARNING,Invalid URL format: Null
+documents,959.0,DQ-13,WARNING,Invalid URL format: Null
+documents,960.0,DQ-13,WARNING,Invalid URL format: Null
+documents,969.0,DQ-13,WARNING,Invalid URL format: Null
+documents,970.0,DQ-13,WARNING,Invalid URL format: Null
+documents,971.0,DQ-13,WARNING,Invalid URL format: Null
+documents,972.0,DQ-13,WARNING,Invalid URL format: Null
+documents,973.0,DQ-13,WARNING,Invalid URL format: Null
+documents,974.0,DQ-13,WARNING,Invalid URL format: Null
+documents,975.0,DQ-13,WARNING,Invalid URL format: Null
+documents,976.0,DQ-13,WARNING,Invalid URL format: Null
+documents,991.0,DQ-13,WARNING,Invalid URL format: Null
+documents,992.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1007.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1008.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1023.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1024.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1039.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1040.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1042.0,DQ-13,WARNING,Annual_Report URL missing
+documents,1071.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1072.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1087.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1088.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1102.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1103.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1104.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1119.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1120.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1134.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1135.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1136.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1151.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1152.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1167.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1168.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1182.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1183.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1184.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1198.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1199.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1200.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1208.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1209.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1210.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1211.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1212.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1213.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1214.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1215.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1216.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1232.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1246.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1247.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1248.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1262.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1263.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1264.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1279.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1280.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1294.0,DQ-13,WARNING,Annual_Report URL missing
+documents,1295.0,DQ-13,WARNING,Annual_Report URL missing
+documents,1296.0,DQ-13,WARNING,Annual_Report URL missing
+documents,1311.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1312.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1327.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1328.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1343.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1344.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1359.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1360.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1375.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1376.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1389.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1390.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1391.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1392.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1406.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1407.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1408.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1423.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1424.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1439.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1440.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1455.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1456.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1470.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1471.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1472.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1487.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1488.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1502.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1503.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1504.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1505.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1514.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1515.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1516.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1517.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1518.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1519.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1520.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1535.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1536.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1551.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1552.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1556.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1557.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1558.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1559.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1560.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1561.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1562.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1563.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1564.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1565.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1566.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1567.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1568.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1583.0,DQ-13,WARNING,Invalid URL format: Null
+documents,1584.0,DQ-13,WARNING,Invalid URL format: Null
+profitandloss,782.0,DQ-14,WARNING,net_profit=-321 but eps=1.0
+profitandloss,816.0,DQ-14,WARNING,net_profit=-14 but eps=2.0
+profitandloss,1061.0,DQ-14,WARNING,net_profit=12 but eps=-1.0
+profitandloss,,DQ-16,WARNING,JIOFIN has only 2 years of data in profitandloss
+balancesheet,,DQ-16,WARNING,JIOFIN has only 2 years of data in balancesheet
+cashflow,,DQ-16,WARNING,JIOFIN has only 2 years of data in cashflow
