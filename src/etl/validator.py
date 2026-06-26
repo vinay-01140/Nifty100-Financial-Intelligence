@@ -1,3 +1,11 @@
+
+"""
+Sprint 1 Day 3 - Data Quality Validator
+
+Implements DQ-01 to DQ-16 for the Nifty100 Financial Intelligence project.
+Reads raw Excel files, validates schema/business rules, and writes
+output/validation_failures.csv with rule violations and severities.
+"""
 import os
 import re
 import pandas as pd

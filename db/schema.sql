@@ -1,6 +1,7 @@
 PRAGMA foreign_keys = ON;
 
 DROP TABLE IF EXISTS peer_groups;
+DROP TABLE IF EXISTS sectors;
 DROP TABLE IF EXISTS market_cap;
 DROP TABLE IF EXISTS financial_ratios;
 DROP TABLE IF EXISTS stock_prices;

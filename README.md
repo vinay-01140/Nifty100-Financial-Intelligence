@@ -181,3 +181,45 @@ python src/etl/loader.py
 ## Sprint 1 Conclusion
 
 Sprint 1 successfully established the **data foundation** for the Nifty100 Financial Intelligence project. The project now has a validated SQLite database, ETL loading scripts, data quality validation rules, audit outputs, and exploratory SQL queries ready for future analytics modules.
+
+Day 08 – Profitability Ratios
+
+Implemented the initial financial ratio engine in src/analytics/ratios.py.
+
+Implemented Ratios
+Net Profit Margin (NPM)
+Operating Profit Margin (OPM)
+Return on Equity (ROE)
+Return on Capital Employed (ROCE)
+Return on Assets (ROA)
+Features
+Implemented Net Profit Margin calculation:
+Formula: (Net Profit / Sales) × 100
+Returns None when sales is zero.
+Implemented Operating Profit Margin calculation:
+Formula: (Operating Profit / Sales) × 100
+Added OPM cross-check to compare calculated value with the source opm_percentage.
+Detects mismatches when the difference exceeds 1%.
+Implemented Return on Equity (ROE):
+Formula: Net Profit / (Equity Capital + Reserves) × 100
+Returns None when total equity is less than or equal to zero.
+Implemented Return on Capital Employed (ROCE):
+Formula: EBIT / (Equity + Reserves + Borrowings) × 100
+Returns None when capital employed is less than or equal to zero.
+Implemented Return on Assets (ROA):
+Formula: Net Profit / Total Assets × 100
+Returns None when total assets is zero.
+Unit Testing
+
+Created tests/test_ratios.py with 8 unit tests covering:
+
+Normal calculation scenarios
+Zero denominator handling
+Negative equity handling
+OPM mismatch detection
+ROCE calculation
+ROA zero-assets case
+Test Result
+Total Tests: 8
+Passed: 8
+Failed: 0
