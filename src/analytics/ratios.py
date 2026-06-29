@@ -98,3 +98,98 @@ def return_on_assets(net_profit, total_assets):
         return None
 
     return (net_profit / total_assets) * 100
+def debt_to_equity(borrowings, equity_capital, reserves):
+    """
+    Calculate Debt-to-Equity Ratio.
+
+    Formula:
+        Borrowings / (Equity Capital + Reserves)
+
+    Returns:
+        float: Debt-to-Equity Ratio
+        0    : If borrowings is zero
+        None : If equity + reserves <= 0
+    """
+
+    if borrowings == 0:
+        return 0
+
+    total_equity = equity_capital + reserves
+
+    if total_equity <= 0:
+        return None
+
+    return borrowings / total_equity
+def high_leverage_flag(debt_to_equity_ratio, broad_sector):
+    """
+    Check whether a company has high leverage.
+
+    Returns:
+        True  : If D/E > 5 and company is not in Financials sector
+        False : Otherwise
+    """
+
+    if debt_to_equity_ratio is None:
+        return False
+
+    return debt_to_equity_ratio > 5 and broad_sector != "Financials"
+def interest_coverage_ratio(operating_profit, other_income, interest):
+    """
+    Calculate Interest Coverage Ratio (ICR).
+
+    Formula:
+        (Operating Profit + Other Income) / Interest
+
+    Returns:
+        float: Interest Coverage Ratio
+        None : If interest is zero
+    """
+
+    if interest == 0:
+        return None
+
+    return (operating_profit + other_income) / interest
+def icr_label(icr):
+    """
+    Return display label for Interest Coverage Ratio.
+    """
+
+    if icr is None:
+        return "Debt Free"
+
+    return ""
+def icr_warning_flag(icr):
+    """
+    Check whether company has low interest coverage.
+    """
+
+    if icr is None:
+        return False
+
+    return icr < 1.5
+def net_debt(borrowings, investments):
+    """
+    Calculate Net Debt.
+
+    Formula:
+        Borrowings - Investments
+    """
+
+    return borrowings - investments
+def asset_turnover(sales, total_assets):
+    """
+    Calculate Asset Turnover Ratio.
+
+    Formula:
+        Sales / Total Assets
+
+    Returns:
+        float: Asset Turnover Ratio
+        None : If total assets is zero
+    """
+
+    if total_assets == 0:
+        return None
+
+    return sales / total_assets
+
