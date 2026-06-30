@@ -223,3 +223,67 @@ Test Result
 Total Tests: 8
 Passed: 8
 Failed: 0
+
+## Sprint 2 – Financial Ratio Engine
+
+### Day 09 – Leverage & Efficiency Ratios
+
+Implemented leverage and efficiency ratio calculations in `src/analytics/ratios.py`.
+
+#### Implemented Ratios
+- Debt-to-Equity (D/E)
+- Interest Coverage Ratio (ICR)
+- Net Debt
+- Asset Turnover
+
+#### Features
+- Implemented Debt-to-Equity calculation with debt-free handling.
+- Added High Leverage flag for non-financial companies with D/E > 5.
+- Implemented Interest Coverage Ratio with "Debt Free" label for zero-interest companies.
+- Added ICR warning flag for companies with ICR < 1.5.
+- Implemented Net Debt and Asset Turnover calculations.
+
+#### Unit Testing
+Added 8 unit tests covering:
+- Debt-free D/E
+- High leverage flag
+- ICR normal and zero-interest cases
+- Debt Free label
+- ICR warning
+- Net Debt
+- Asset Turnover
+
+#### Test Result
+- Total Tests: **16**
+- Passed: **16**
+- Failed: **0**
+
+Day 09 completed successfully.
+
+## Sprint 2 – Financial Ratio Engine
+
+### Day 10 – CAGR Engine
+
+Implemented the CAGR Engine in `src/analytics/cagr.py` for calculating Revenue, PAT, and EPS growth rates.
+
+#### Features
+- Implemented generic CAGR calculation formula.
+- Added Revenue CAGR, PAT CAGR, and EPS CAGR functions.
+- Handled all required CAGR edge cases:
+  - Positive to Positive
+  - Positive to Negative
+  - Negative to Positive
+  - Negative to Negative
+  - Zero Base
+  - Insufficient Data
+- Returned both CAGR value and corresponding status flag.
+
+#### Unit Testing
+- Added 10 unit tests covering normal calculations and all edge cases.
+
+#### Test Result
+- Total Tests: **26**
+- Passed: **26**
+- Failed: **0**
+
+Day 10 completed successfully.
