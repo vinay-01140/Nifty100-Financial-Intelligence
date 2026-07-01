@@ -192,4 +192,122 @@ def asset_turnover(sales, total_assets):
         return None
 
     return sales / total_assets
+def free_cash_flow(operating_activity, investing_activity):
+    """
+    Calculate Free Cash Flow (FCF).
+
+    Formula:
+        Operating Activity + Investing Activity
+
+    Returns:
+        float: Free Cash Flow
+    """
+
+    return operating_activity + investing_activity
+def cfo_quality_score(cfo, pat):
+    """
+    Calculate CFO Quality Score.
+
+    Formula:
+        CFO / PAT
+
+    Returns:
+        tuple: (score, quality)
+        None : If PAT is zero
+    """
+
+    if pat == 0:
+        return None, None
+
+    score = cfo / pat
+
+    if score > 1.0:
+        quality = "High Quality"
+    elif score >= 0.5:
+        quality = "Moderate"
+    else:
+        quality = "Accrual Risk"
+
+    return score, quality
+def capex_intensity(investing_activity, sales):
+    """
+    Calculate CapEx Intensity.
+
+    Formula:
+        abs(Investing Activity) / Sales * 100
+
+    Returns:
+        tuple: (capex_intensity, category)
+        None : If sales is zero
+    """
+
+    if sales == 0:
+        return None, None
+
+    intensity = (abs(investing_activity) / sales) * 100
+
+    if intensity < 3:
+        category = "Asset Light"
+    elif intensity <= 8:
+        category = "Moderate"
+    else:
+        category = "Capital Intensive"
+
+    return intensity, category
+def fcf_conversion_rate(free_cash_flow, operating_profit):
+    """
+    Calculate Free Cash Flow Conversion Rate.
+
+    Formula:
+        (Free Cash Flow / Operating Profit) * 100
+
+    Returns:
+        float: FCF Conversion Rate
+        None : If operating profit is zero
+    """
+
+    if operating_profit == 0:
+        return None
+
+    return (free_cash_flow / operating_profit) * 100
+def capital_allocation_pattern(cfo, cfi, cff, cfo_quality=None):
+    """
+    Classify capital allocation pattern based on
+    Operating, Investing and Financing cash flows.
+    """
+
+    cfo_sign = "+" if cfo >= 0 else "-"
+    cfi_sign = "+" if cfi >= 0 else "-"
+    cff_sign = "+" if cff >= 0 else "-"
+
+    pattern = (cfo_sign, cfi_sign, cff_sign)
+
+    if pattern == ("+", "-", "-"):
+        if cfo_quality == "High Quality":
+            label = "Shareholder Returns"
+        else:
+            label = "Reinvestor"
+
+    elif pattern == ("+", "+", "-"):
+        label = "Liquidating Assets"
+
+    elif pattern == ("-", "+", "+"):
+        label = "Distress Signal"
+
+    elif pattern == ("-", "-", "+"):
+        label = "Growth Funded by Debt"
+
+    elif pattern == ("+", "+", "+"):
+        label = "Cash Accumulator"
+
+    elif pattern == ("-", "-", "-"):
+        label = "Pre-Revenue"
+
+    elif pattern == ("+", "-", "+"):
+        label = "Mixed"
+
+    else:
+        label = "Unknown"
+
+    return cfo_sign, cfi_sign, cff_sign, label
 

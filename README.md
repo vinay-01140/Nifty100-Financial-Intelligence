@@ -287,3 +287,32 @@ Implemented the CAGR Engine in `src/analytics/cagr.py` for calculating Revenue, 
 - Failed: **0**
 
 Day 10 completed successfully.
+## Sprint 2 – Financial Ratio Engine
+
+### Day 11 – Cash Flow KPIs & Capital Allocation
+
+Implemented cash flow KPIs and capital allocation analysis in `src/analytics/ratios.py`.
+
+#### Implemented KPIs
+- Free Cash Flow (FCF)
+- CFO Quality Score
+- CapEx Intensity
+- FCF Conversion Rate
+- Capital Allocation Pattern Classifier
+
+#### Features
+- Implemented Free Cash Flow calculation with support for negative values.
+- Added CFO Quality Score with quality classification (High Quality, Moderate, Accrual Risk).
+- Implemented CapEx Intensity with Asset Light, Moderate, and Capital Intensive classifications.
+- Added FCF Conversion Rate with zero operating profit handling.
+- Implemented capital allocation pattern classification using CFO, CFI, and CFF cash flow signs.
+
+#### Unit Testing
+- Added 8 unit tests covering cash flow calculations, classifications, and edge cases.
+
+#### Test Result
+- Total Tests: **34**
+- Passed: **34**
+- Failed: **0**
+
+Day 11 completed successfully.
